@@ -115,11 +115,3 @@ Les marques ont une classification A,B,C ou D:
 ![](SP_marques.png)
 
 
-
-## 7. Votre interlocuteur
-
-```
-Chef de projet : Julien TERRAZ   
-Tél : 0620922575  
-email : jul@roseindigo.com
-````
