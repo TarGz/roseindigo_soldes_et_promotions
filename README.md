@@ -92,7 +92,7 @@ niveau 2| PRODUITS
 3 mois 	| Affiche les produits taille 3 mois
 6 mois 	| Affiche les produits taille 6 mois
 ...		| etc
--	 	| Affiche les produits de toutes tailles
+| Affiche les produits de toutes tailles
 
 >catégories niveau 3
 
