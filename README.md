@@ -81,7 +81,8 @@ niveau 1| PRODUITS
 ------------ | ------------- 
 filles 	| Affiche les produits pour filles
 garçon 	| Affiche les produits pour garçons
--	 	| Affiche les produits pour filles ET garçons
+
+| Affiche les produits pour filles ET garçons
 
 >catégories niveau 2
 
@@ -100,7 +101,8 @@ niveau 3 | PRODUITS
 T-shirt | Affiche tous les tee-shirts
 Robe 	| Affiche toutes les robes
 ...		| etc
--	 	| Affiche les produits de toutes sortes (dressing)
+
+| Affiche les produits de toutes sortes (dressing)
 
 >Filtres
 
