@@ -2,7 +2,7 @@
 
 ## 1. Présentation
 
-[**RoseIndigo.com**](http://www.roseindigo.com/) est un site e-commerce de vente **de vêtements d’occasion pour enfants de la naissance à 12 ans**. Le site a été créé en Octobre 2010 sur une base de Prestashop 1.3 et entièrement redeveloppé il y a 1 an sous Prestashop 1.6
+[**RoseIndigo.com**](http://www.roseindigo.com/) est un site e-commerce de vente **de vêtements d’occasion pour enfants de la naissance à 12 ans**. Le site a été créé en Octobre 2010 sur une base de Prestashop 1.3 et entièrement redeveloppé il y a 3 ans sous Prestashop 1.6
 
 
 ## 2. Besoin
